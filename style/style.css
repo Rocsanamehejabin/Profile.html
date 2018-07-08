@@ -1,0 +1,35 @@
+p,li,h1{
+font-family: sans-serif;
+color: red;
+width: 500PX;
+font-size: 16PX;
+line-height: 2;
+letter-spacing: 1Px;
+text-align: left;
+}
+h1{
+margin: 5PX 70PX;
+padding: 80PX 100;
+color: red;
+text-shadow: 4PX 4PX 4PX white;
+color: red;
+font-size: 40PX;
+text-align: right;
+}
+html{
+background-color: pink;
+width: 2000PX;
+margin: 100PX auto;
+}
+body{
+width: 900PX;
+margin: 25PX 60PX;
+background-color: #F0E68C;
+padding: 0 90PX 90PX 90PX;
+border: 7PX solid black;
+text-align: right;
+}
+
+
+
+
